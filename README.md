@@ -61,40 +61,10 @@ DSA & Problem Solving
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins" />
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nextjs,tailwind,aws,mysql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mongodb,postgres,postman,maven,git,github" />
 </p>
 
 ---
@@ -250,10 +220,9 @@ Learn → Build → Break → Debug → Improve → Repeat
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/himani-singh-b6853331/">
+<a href="https://www.linkedin.com/in/himani-singh-b6a583331/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 </p>
 
 ---
